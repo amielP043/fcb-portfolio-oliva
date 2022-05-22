@@ -8,7 +8,7 @@ h1, h2 {
 
 #profile {
 	height: 250px;
-	width: 250px;
+	width: 420px;
 }
 
 #landing {
@@ -29,7 +29,7 @@ h1, h2 {
 }
 
 .jumbotron{
-	background-color: transparent;
+	background-color: #f2f2ff;
 }
 
 #gallery {
